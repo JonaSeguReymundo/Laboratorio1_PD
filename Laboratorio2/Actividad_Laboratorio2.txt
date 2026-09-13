@@ -1,0 +1,41 @@
+Oración 1
+"Si la información no es completa para oferentes y demandantes, hay una falla de mercado."
+
+Estructura gramatical:
+Sujeto: La información
+Predicado: No es completa para oferentes y demandantes / Hay una falla de mercado
+
+Proposiciones simples:
+P: La información es completa para oferentes y demandantes.
+Q: Hay una falla de mercado.
+
+Lógica simbólica:
+¬P → Q
+
+Oración 2
+"He pasado todas mis vacaciones en Grecia y Marruecos."
+
+Estructura gramatical:
+Sujeto: Yo (sujeto tácito o implícito)
+Predicado: He pasado todas mis vacaciones en Grecia y Marruecos
+
+Proposiciones simples:
+P: Pasé mis vacaciones en Grecia.
+Q: Pasé mis vacaciones en Marruecos.
+
+Lógica simbólica:
+P ∧ Q
+
+Oración 3
+"La realidad supera a la ficción y él no puede creerlo."
+
+Estructura gramatical:
+Primera cláusula: Sujeto: La realidad | Predicado: Supera a la ficción
+Segunda cláusula: Sujeto: Él | Predicado: No puede creerlo
+
+Proposiciones simples:
+P: La realidad supera a la ficción.
+Q: Él puede creerlo.
+
+Lógica simbólica:
+P ∧ ¬Q
